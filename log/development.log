@@ -1,0 +1,5 @@
+
+
+Processing HelloController#index (for 127.0.0.1 at 2014-09-11 23:19:58) [GET]
+Rendering hello/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/hello/index]
